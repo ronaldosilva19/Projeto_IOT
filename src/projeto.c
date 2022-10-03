@@ -1,6 +1,7 @@
 #include <WiFi.h> // Biblioteca que permite com que o ESP32 se conecte a rede Wifi.
 #include <WiFiClient.h> // 
 #include <PubSubClient.h>
+#include <stdio.h>
 
 WiFiClient ESPWiFiClient;
 PubSubClient mqttClient(ESPWiFiClient);
