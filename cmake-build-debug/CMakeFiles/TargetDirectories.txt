@@ -1,0 +1,3 @@
+C:/Users/ronal/CLionProjects/Projeto_IOT/cmake-build-debug/CMakeFiles/Projeto_IOT.dir
+C:/Users/ronal/CLionProjects/Projeto_IOT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ronal/CLionProjects/Projeto_IOT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
